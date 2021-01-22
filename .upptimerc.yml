@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: CRESCOTec
     url: https://crescotec.com/
-  - name: CRESCO Accoutnants
-    url: https://cresco.accountants/
+  - name: CRSCO_S1
+    url: $CRSCO_S1
   - name: CRESCO Payroll
     url: https://payroll.cresco.org/
 #  - name: Google
