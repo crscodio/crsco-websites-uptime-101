@@ -8,8 +8,8 @@ sites:
     url: https://crescotec.com/
   - name: CRSCO_S1
     url: $CRSCO_S1
-  - name: CRESCO Payroll
-    url: https://payroll.cresco.org/
+  - name: CRSCO_S2
+    url: $CRSCO_S2
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
