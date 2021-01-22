@@ -4,8 +4,12 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: CTec
+  - name: CRESCOTec
     url: https://crescotec.com/
+  - name: CRESCO Accoutnants
+    url: https://cresco.accountants/
+  - name: CRESCO Payroll
+    url: https://payroll.cresco.org/
 #  - name: Google
 #    url: https://www.google.com
 #  - name: Wikipedia
