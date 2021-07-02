@@ -13,7 +13,7 @@
     "time": 847,
     "timeDay": 1795,
     "timeWeek": 1514,
-    "timeMonth": 881,
+    "timeMonth": 882,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -24,9 +24,9 @@
     "slug": "crsco-s1",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.37%",
     "time": 527,
     "timeDay": 206,
@@ -34,7 +34,7 @@
     "timeMonth": 189,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2021-07-02": 0,
+      "2021-07-02": 11,
       "2021-03-15": 143,
       "2021-03-07": 409,
       "2021-03-06": 905
@@ -45,19 +45,19 @@
     "url": "$CRSCO_S2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "crsco-s2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 509,
-    "timeWeek": 537,
+    "timeDay": 522,
+    "timeWeek": 539,
     "timeMonth": 540,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2021-07-02": 0
+      "2021-07-02": 11
     }
   }
 ]
