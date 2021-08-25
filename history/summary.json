@@ -4,18 +4,20 @@
     "url": "https://crescotec.com/",
     "icon": "https://favicons.githubusercontent.com/crescotec.com",
     "slug": "cresco-tec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 987,
-    "timeDay": 1261,
-    "timeWeek": 1262,
-    "timeMonth": 1302,
+    "timeDay": 1058,
+    "timeWeek": 1246,
+    "timeMonth": 1300,
     "timeYear": 987,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-25": 0
+    }
   },
   {
     "name": "CRSCO_S1",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 441,
-    "timeDay": 188,
-    "timeWeek": 213,
+    "time": 440,
+    "timeDay": 176,
+    "timeWeek": 212,
     "timeMonth": 202,
-    "timeYear": 441,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2021-07-02": 27,
       "2021-03-15": 143,
@@ -52,8 +54,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 574,
-    "timeDay": 457,
-    "timeWeek": 453,
+    "timeDay": 500,
+    "timeWeek": 454,
     "timeMonth": 433,
     "timeYear": 574,
     "dailyMinutesDown": {
