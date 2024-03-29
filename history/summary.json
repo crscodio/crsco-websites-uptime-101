@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/crescotec.com.ico",
     "slug": "cresco-tec",
     "status": "up",
-    "uptime": "78.45%",
+    "uptime": "78.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 2102,
-    "timeWeek": 1987,
-    "timeMonth": 1853,
-    "timeYear": 471,
+    "time": 477,
+    "timeDay": 1947,
+    "timeWeek": 1976,
+    "timeMonth": 1864,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2023-11-28": 17,
       "2023-05-25": 56
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crsco-s1",
     "status": "down",
-    "uptime": "32.64%",
+    "uptime": "32.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 311,
-    "timeDay": 370,
-    "timeWeek": 314,
-    "timeMonth": 324,
+    "timeDay": 277,
+    "timeWeek": 308,
+    "timeMonth": 321,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2024-03-28": 69,
+      "2024-03-29": 69,
+      "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -400,8 +401,7 @@
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
-      "2023-03-31": 1440,
-      "2023-03-30": 1440
+      "2023-03-31": 1440
     }
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 451,
-    "timeWeek": 471,
-    "timeMonth": 519,
-    "timeYear": 560,
+    "timeDay": 501,
+    "timeWeek": 472,
+    "timeMonth": 513,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   }
 ]
