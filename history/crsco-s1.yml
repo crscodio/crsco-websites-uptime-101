@@ -1,7 +1,7 @@
 url: $CRSCO_S1
-status: down
-code: 403
-responseTime: 235
-lastUpdated: 2025-03-11T23:35:15.330Z
+status: up
+code: 200
+responseTime: 568
+lastUpdated: 2025-03-11T23:57:10.737Z
 startTime: 2021-01-22T01:19:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
