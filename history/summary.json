@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crescotec.com.ico",
     "slug": "cresco-tec",
     "status": "up",
-    "uptime": "83.48%",
+    "uptime": "83.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -25,12 +25,12 @@
     "url": "$CRSCO_S1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crsco-s1",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "31.87%",
-    "uptimeWeek": "24.10%",
-    "uptimeMonth": "79.69%",
-    "uptimeYear": "98.31%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "32.48%",
+    "uptimeWeek": "24.28%",
+    "uptimeMonth": "80.21%",
+    "uptimeYear": "98.35%",
     "time": 341,
     "timeDay": 373,
     "timeWeek": 367,
@@ -45,7 +45,7 @@
       "2025-03-11": 1026,
       "2025-03-10": 907,
       "2025-03-09": 1040,
-      "2025-03-08": 388
+      "2025-03-08": 158
     }
   },
   {
