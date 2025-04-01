@@ -25,19 +25,19 @@
     "url": "$CRSCO_S1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crsco-s1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "73.17%",
-    "uptimeWeek": "48.10%",
-    "uptimeMonth": "75.14%",
+    "uptimeDay": "75.66%",
+    "uptimeWeek": "48.45%",
+    "uptimeMonth": "75.22%",
     "uptimeYear": "97.93%",
     "time": 341,
-    "timeDay": 329,
+    "timeDay": 333,
     "timeWeek": 337,
     "timeMonth": 340,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-04-01": 309,
+      "2025-04-01": 310,
       "2025-03-31": 632,
       "2025-03-30": 828,
       "2025-03-29": 733,
@@ -48,7 +48,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 278
+      "2025-03-21": 243
     }
   },
   {
