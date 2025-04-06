@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 425,
-    "timeDay": 363,
+    "timeDay": 370,
     "timeWeek": 422,
     "timeMonth": 403,
-    "timeYear": 398,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2025-01-23": 17,
       "2024-10-14": 23
@@ -27,16 +27,17 @@
     "slug": "crsco-s1",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "99.27%",
     "time": 342,
-    "timeDay": 387,
-    "timeWeek": 372,
-    "timeMonth": 351,
+    "timeDay": 385,
+    "timeWeek": 368,
+    "timeMonth": 350,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2025-04-06": 40,
       "2025-04-05": 53,
       "2025-04-04": 113,
       "2025-04-03": 36,
@@ -46,7 +47,7 @@
       "2025-03-30": 828,
       "2025-03-29": 733,
       "2025-03-28": 581,
-      "2025-03-27": 383
+      "2025-03-27": 354
     }
   },
   {
@@ -61,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 492,
-    "timeDay": 479,
+    "timeDay": 483,
     "timeWeek": 448,
-    "timeMonth": 485,
+    "timeMonth": 484,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2024-09-25": 150
