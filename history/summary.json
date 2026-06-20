@@ -6,13 +6,13 @@
     "slug": "cresco-tec",
     "status": "down",
     "uptime": "87.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.68%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "99.67%",
     "time": 474,
     "timeDay": 127,
-    "timeWeek": 174,
+    "timeWeek": 175,
     "timeMonth": 226,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -57,7 +57,7 @@
       "2026-06-10": 106,
       "2026-06-11": 83,
       "2026-06-14": 26,
-      "2026-06-20": 0
+      "2026-06-20": 29
     }
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "18.27%",
     "time": 406,
-    "timeDay": 438,
-    "timeWeek": 413,
-    "timeMonth": 423,
+    "timeDay": 460,
+    "timeWeek": 417,
+    "timeMonth": 424,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-07-11": 296,
@@ -391,8 +391,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 503,
-    "timeDay": 388,
-    "timeWeek": 439,
+    "timeDay": 394,
+    "timeWeek": 440,
     "timeMonth": 433,
     "timeYear": 504,
     "dailyMinutesDown": {
