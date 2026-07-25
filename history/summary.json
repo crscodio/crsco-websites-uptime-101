@@ -4,16 +4,16 @@
     "url": "https://crescotec.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crescotec.com.ico",
     "slug": "cresco-tec",
-    "status": "down",
+    "status": "up",
     "uptime": "87.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.66%",
     "time": 465,
-    "timeDay": 127,
-    "timeWeek": 138,
-    "timeMonth": 157,
+    "timeDay": 146,
+    "timeWeek": 139,
+    "timeMonth": 155,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2025-07-26": 18,
@@ -55,7 +55,8 @@
       "2026-06-11": 83,
       "2026-06-14": 26,
       "2026-06-20": 29,
-      "2026-07-24": 0
+      "2026-07-25": 129,
+      "2026-07-24": 2
     }
   },
   {
@@ -68,10 +69,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.89%",
+    "uptimeYear": "21.91%",
     "time": 399,
     "timeDay": 540,
-    "timeWeek": 534,
+    "timeWeek": 533,
     "timeMonth": 468,
     "timeYear": 400,
     "dailyMinutesDown": {
@@ -359,8 +360,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   },
   {
@@ -375,9 +375,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 501,
-    "timeDay": 480,
-    "timeWeek": 468,
-    "timeMonth": 442,
+    "timeDay": 506,
+    "timeWeek": 471,
+    "timeMonth": 443,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2025-11-18": 108
