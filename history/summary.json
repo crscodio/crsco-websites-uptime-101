@@ -4,15 +4,15 @@
     "url": "https://crescotec.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crescotec.com.ico",
     "slug": "cresco-tec",
-    "status": "down",
+    "status": "up",
     "uptime": "87.50%",
-    "uptimeDay": "95.74%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.65%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.64%",
     "time": 464,
-    "timeDay": 187,
-    "timeWeek": 156,
+    "timeDay": 188,
+    "timeWeek": 157,
     "timeMonth": 155,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
       "2026-06-20": 29,
       "2026-07-25": 129,
       "2026-07-24": 2,
-      "2026-07-27": 61
+      "2026-07-27": 146
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "22.48%",
+    "uptimeYear": "22.49%",
     "time": 399,
     "timeDay": 512,
     "timeWeek": 546,
-    "timeMonth": 470,
+    "timeMonth": 469,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2026-05-06": 146,
